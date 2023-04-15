@@ -12,3 +12,4 @@ Route::get('/cs-go-server', [App\Http\Controllers\PagesController::class, 'CSGO'
 Route::get('/salary-calculator', [App\Http\Controllers\PagesController::class, 'salaryCalculator']);
 Route::get('/tg-bot', [App\Http\Controllers\PagesController::class, 'tgBot']);
 Route::get('/jupyter-hub', [App\Http\Controllers\PagesController::class, 'jupyterHub']);
+Route::get('/shortener', [App\Http\Controllers\PagesController::class, 'shortener']);

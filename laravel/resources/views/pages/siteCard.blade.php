@@ -18,7 +18,7 @@
                             <ul class="list">
                                 <li><span>Веб-сайт</span> <a href="http://nasavasa.ru">nasavasa.ru</a></li>
                                 <li><span>Выполнено</span>14 Aug 2022</li>
-                                <li><span>GitHub</span><a href="https://github.com/NasaVasa">NasaVasa</a></li>
+                                <li><span>GitHub</span><a href="https://github.com/NasaVasa/nasavasa.ru">NasaVasa</a></li>
                             </ul>
                             <div class="tags">
                                 <span class="tag">DOMAIN</span>
@@ -70,9 +70,10 @@
                                             </li>
                                             <li>перенёс готовую вёрстку на <b>Laravel</b></li>
                                             <li>полностью модифицировал сайт под себя</li>
-                                            <li>упаковал сайт в <b>Docker</b> контейнеры (<b>nginx</b>, <b>php</b>,<b>mysql</b>)</li>
+                                            <li>упаковал сайт в <b>Docker</b> контейнеры (<b>nginx</b>, <b>laravel</b>,<b>postgresql</b>)
+                                            </li>
                                             <li>исходный код сайта можно посмотреть в моём <b><a
-                                                        href="https://github.com/NasaVasa">GitHub</a></b></li>
+                                                        href="https://github.com/NasaVasa/nasavasa.ru">GitHub</a></b></li>
                                         </ul>
                                     </td>
                                     <td>

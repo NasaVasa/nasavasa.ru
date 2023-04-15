@@ -9,6 +9,13 @@
                 </a>
             </div>
             <div class="col-lg-3 col-sm-6 col-sm-12 brand web grid-item">
+                <a href="/shortener">
+                    <div class="projects_item">
+                        <img class="img-fluid w-100" src="img/works/shortener/logo_2.png" alt="">
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 col-sm-12 brand web grid-item">
                 <a href="/jupyter-hub">
                     <div class="projects_item">
                         <img class="img-fluid w-100" src="img/works/jupyter-hub/logo.png" alt="">

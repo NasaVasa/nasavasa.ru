@@ -14,7 +14,6 @@
                         <li><a href="https://www.instagram.com/nasavasaa"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="https://github.com/NasaVasa"><i class='fa fa-github'></i></a></li>
                     </ul>
-                    <a href="http://nasavasa.ru/test" style="color: #ffd200">TTTTTTTTTTTTTTTTTTTT</a>
                 </aside>
             </div>
         </div>

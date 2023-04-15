@@ -38,6 +38,11 @@ class PagesController extends Controller
         return view('pages/siteCard');
     }
 
+    public function shortener()
+    {
+        $this->ip_todatabase("shortener");
+        return view('pages/shortener');
+    }
     public function CSGO()
     {
         $this->ip_todatabase("CSGO");

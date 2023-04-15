@@ -1,5 +1,5 @@
 @extends('layouts.portfolioDetails')
-@section('title','Сайт-визитка')
+@section('title','Jupyter Hub')
 @section('innerContent')
     <section class="portfolio_details_area section_gap">
         <div class="container">
@@ -20,6 +20,7 @@
                                 <li><span>Веб-сайт</span><a href="http://clouds.nasavasa.ru/">clouds.nasavasa.ru</a>
                                 </li>
                                 <li><span>Выполнено</span>31 Dec 2022</li>
+                                <li><span>GitHub</span><a href="https://github.com/NasaVasa/JupyterHub">NasaVasa</a></li>
                             </ul>
                             <div class="tags">
                                 <span class="tag">DOCKER</span>
@@ -46,7 +47,7 @@
                                                 написал <b>docker-compose.yml</b>
                                             </li>
                                             <li>развернул контейнер на сервере</li>
-                                            <li>разместил на моём <a href="https://github.com/NasaVasa/nasavasa_bot"><b>GitHub</b></a></li>
+                                            <li>разместил на моём <a href="https://github.com/NasaVasa/JupyterHub"><b>GitHub</b></a></li>
                                         </ul>
                                     </td>
                                     <td>

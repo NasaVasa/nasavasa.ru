@@ -1,4 +1,4 @@
-# [nasavasa.ru](https://nasavasa.ru)
+# [nasavasa.ru](http://nasavasa.ru)
 ### Личный сайт-визитка 
 14 Aug 2022 - 2 Feb 2023
 
@@ -9,9 +9,13 @@
 ```bash
 git clone https://github.com/NasaVasa/nasavasa.ru.git
 ```
-2. Создать файл .env в корне проекта и заполнить его (пример в .env.example)
+2. Переходим в созданную папку
+```bash
+cd nasavasa.ru
+````
+3. Создать файл .env в корне проекта и заполнить его (пример в .env.example)
 
-3. Запустить контейнеры
+4. Запустить контейнеры
 ```bash 
 docker-compose up -d
 ```
